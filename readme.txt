@@ -2,6 +2,12 @@ Description - implements seam carving, "a content-aware image resizing
 technique where the image is reduced in size by one pixel of height (
 or width) at a time".
 
+SeamCarver.java contains code written by me that implements the seam carving algorithm.
+
+To test SeamCarver.java-:
+ResizeDemo.java can be used for testing the code using one of the two images
+given as input (details of the input required to run the program are on the header)
+
 /* *****************************************************************************
  *  Describing algorithm to find a horizontal (or vertical)
  *  seam.
