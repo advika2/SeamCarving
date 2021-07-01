@@ -1,5 +1,9 @@
+Description - implements seam carving, "a content-aware image resizing
+technique where the image is reduced in size by one pixel of height (
+or width) at a time".
+
 /* *****************************************************************************
- *  Describe concisely your algorithm to find a horizontal (or vertical)
+ *  Describing algorithm to find a horizontal (or vertical)
  *  seam.
  **************************************************************************** */
 To find a vertical seam, I represented the picture as a DAG. I relaxed the
