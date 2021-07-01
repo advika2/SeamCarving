@@ -8,6 +8,8 @@ To test SeamCarver.java-:
 ResizeDemo.java can be used for testing the code using one of the two images
 given as input (details of the input required to run the program are on the header)
 
+algs4.jar is the library provided to me to do this project
+
 /* *****************************************************************************
  *  Describing algorithm to find a horizontal (or vertical)
  *  seam.
